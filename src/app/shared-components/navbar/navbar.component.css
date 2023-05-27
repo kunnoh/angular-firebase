@@ -1,0 +1,16 @@
+header{
+    flex-shrink: 0;
+    position: sticky;
+    top: 0;
+    background-color: #f0f0f0;
+    padding: 20px;
+    z-index: 1;
+}
+.mat-toolbar{
+    background-color: cornflowerblue;
+    color: white;
+}.mat-button{
+    color: white;
+}.spacer{
+    flex: 1 1 auto;
+}
