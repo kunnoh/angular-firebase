@@ -14,8 +14,8 @@ import { NavbarComponent } from './pages/sharedComponents/navbar/navbar.componen
   ],
   template: `
     <app-navbar></app-navbar>
-    <app-footer></app-footer>
     <router-outlet>
+    <app-footer></app-footer>
   `,
 })
 export class AppComponent {
